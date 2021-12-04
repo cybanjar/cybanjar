@@ -28,7 +28,6 @@ If you any project Vue Js or Nuxt Js Call me <a href="mailto:cybanjar@gmail.com"
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
----
 
 <small>Follow me around the web:</small><br>
 
@@ -39,7 +38,7 @@ If you any project Vue Js or Nuxt Js Call me <a href="mailto:cybanjar@gmail.com"
 </div>
 
 
------
+----
 Credits: [Syamsul Amin](https://github.com/cybanjar)
 
 Last Edited on: 05/12/2021

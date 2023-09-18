@@ -9,7 +9,8 @@
 - 💞️ I’m looking to job on part time
 - 📫 How to reach me ...
 
-If you any project Vue Js or Nuxt Js Call me <a href="mailto:cybanjar@gmail.com"><b>email</b></a>
+If you any project Vue Js or Nuxt Js Call me <a href="mailto:cybanjar@gmail.com"><b>email</b></a></br>
+Visit my profile <a href="https://cybanjar.github.io/syamsulamin">link</a>
 
 
 <div align="center">

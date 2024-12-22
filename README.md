@@ -4,8 +4,7 @@
 
 
 - 👋 Hi, I’m @cybanjar
-- 👀 I’m interested in Frontend Developer, Vue Js, Nuxt Js, Quasar Framework.
-- 🌱 I’m currently learning Ionic Vue Mobile Developer
+- 👀 I’m interested in Frontend Developer, Vue Js, Nuxt Js, Quasar Framework, ionic.
 - 💞️ I’m looking to job on part time
 - 📫 How to reach me ...
 
